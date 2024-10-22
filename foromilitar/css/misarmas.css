@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+      padding: 0;
+      background: url(../img/fondos/misproductos.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+  .news-cards {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 0px;
+	margin: 70px;
+}

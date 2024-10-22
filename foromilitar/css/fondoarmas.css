@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url(../img/fondos/fondoarmas.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}

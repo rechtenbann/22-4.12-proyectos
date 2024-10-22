@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url(../img/fondos/fondopagina.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0%;
+    padding: 0%;
+}
+
+.lili{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
